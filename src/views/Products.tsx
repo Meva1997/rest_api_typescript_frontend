@@ -38,10 +38,10 @@ export default function Products() {
         <table className="w-full mt-5 table-auto">
           <thead className="text-white bg-slate-800">
               <tr>
-                  <th className="p-2">Producto</th>
-                  <th className="p-2">Precio</th>
-                  <th className="p-2">Disponibilidad</th>
-                  <th className="p-2">Acciones</th>
+                  <th className="p-2">Product</th>
+                  <th className="p-2">Price</th>
+                  <th className="p-2">Availability</th>
+                  <th className="p-2">Actions</th>
               </tr>
           </thead>
           <tbody>
